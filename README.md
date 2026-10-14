@@ -1,14 +1,12 @@
-# Nehemiah.dev 👨‍💻
+# Nehemiah.dev
 
-Hi, I’m Nehemiah — DevOps & Platform Engineer.  
-I build and deploy reliable backend services, I write clean APIs and I deal with containerization and CI/CD pipelines.
+Personal portfolio built with React, Vite, and TypeScript.
 
-## What I Work With
-- Backend: Python, Golang, Postgres, REST APIs, SQL
-- DevOps: Docker, CICD, Terraform, Kebernetes
-- Cloud: AWS
+## Development
 
-## Currently
-- 
+```sh
+npm install
+npm run dev
+```
 
-🔗 [Portfolio](https://nehelabs.duckdns.org)
+Create a production build with `npm run build` and preview it with `npm run preview`.
