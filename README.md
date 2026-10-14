@@ -1,12 +1,11 @@
-# Nehemiah.dev
+# Nehemiah
 
-Personal portfolio built with React, Vite, and TypeScript.
+I'm a product engineer who connects product thinking with software engineering. I like taking a real user problem through to useful, dependable software, working across backend systems, cloud infrastructure, delivery, and observability.
 
-## Development
+My focus is building products that solve practical problems and remain reliable as they grow.
 
-```sh
-npm install
-npm run dev
-```
+## Connect
 
-Create a production build with `npm run build` and preview it with `npm run preview`.
+- [GitHub](https://github.com/nehedev)
+- [LinkedIn](https://www.linkedin.com/in/nehemiah-daniel-844177231)
+- [Email](mailto:nehemiahadoba@gmail.com)
